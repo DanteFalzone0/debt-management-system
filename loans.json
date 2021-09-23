@@ -3,5 +3,25 @@
         "loan_date": "09/23/2021",
         "loan_amount": 250,
         "amount_paid": 0
+    },
+    {
+        "loan_date": "09/14/2021",
+        "loan_amount": 350,
+        "amount_paid": 0
+    },
+    {
+        "loan_date": "08/31/2021",
+        "loan_amount": 200,
+        "amount_paid": 0
+    },
+    {
+        "loan_date": "08/21/2021",
+        "loan_amount": 250,
+        "amount_paid": 0
+    },
+    {
+        "loan_date": "08/06/2021",
+        "loan_amount": 250,
+        "amount_paid": 0
     }
 ]
