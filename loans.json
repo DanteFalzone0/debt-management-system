@@ -23,5 +23,10 @@
         "loan_date": "08/06/2021",
         "loan_amount": 250,
         "amount_paid": 0
+    },
+    {
+        "loan_date": "10/05/2021",
+        "loan_amount": 500,
+        "amount_paid": 0
     }
 ]
